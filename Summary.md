@@ -1,4 +1,4 @@
-# Tzanet-Analytics-engine
+# Analytics-engine
 # 📦 ML-Powered Inventory Analytics Engine
 
 > **An end-to-end automated financial intelligence system built on SAP B1 data**
@@ -10,7 +10,7 @@
 
 This project replaces hours of manual Excel reporting with a **fully automated, auditable analytics pipeline** — connecting directly to SAP B1 via SQL, processing the entire inventory dataset, and outputting a structured, decision-ready Excel workbook with **zero manual intervention**.
 
-Built for a real production environment at **Tzanet Inc. (Montréal)**, the system surfaces actionable signals for write-offs, reorders, pricing, and supplier decisions — all data-driven, not intuition-based.
+Built for a real production environment, the system surfaces actionable signals for write-offs, reorders, pricing, and supplier decisions — all data-driven, not intuition-based.
 
 ---
 
@@ -138,10 +138,10 @@ NPV_12M   = value × 0.80 / (1 + monthly_rate)^12
 ```
 inventory-analytics-engine/
 │
-├── Advanced_Inventory_Analysis.py   # Main pipeline (v29)
+├── Advanced_Inventory_Analysis.py   # Main pipeline
 ├── README.md
 └── output/
-    └── AL-Tzanet_Analysis_YYYY_MM_DD.xlsx   # Auto-generated
+    └── AL-####_YYYY_MM_DD.xlsx   # Auto-generated
 ```
 
 ---
