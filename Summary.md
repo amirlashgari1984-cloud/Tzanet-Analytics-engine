@@ -139,7 +139,7 @@ NPV_12M   = value × 0.80 / (1 + monthly_rate)^12
 inventory-analytics-engine/
 │
 ├── Advanced_Inventory_Analysis.py   # Main pipeline
-├── README.md
+├── Summary.md
 └── output/
     └── AL-####_YYYY_MM_DD.xlsx   # Auto-generated
 ```
