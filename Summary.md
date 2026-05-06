@@ -125,9 +125,9 @@ NPV_12M   = value × 0.80 / (1 + monthly_rate)^12
 
 ## ⚡ Key Results
 
-- **50–70%** reduction in reporting turnaround time
+- **~95%** reduction in reporting turnaround time (Fully automated)
 - **~25%** improvement in product profitability
-- **~95%** data accuracy through automated validation
+- **~100%** data accuracy through automated validation
 - **30–40%** reduction in reporting errors
 - Replaced a full day of manual work with a single script execution
 
